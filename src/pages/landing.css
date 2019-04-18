@@ -1,0 +1,60 @@
+
+#body{
+    position: absolute;
+    background: #DBEBFF;
+    height:100%;
+    width:100%;
+
+}
+.bio{
+    text-align: center;
+    font-size: 12px;
+    position:relative;
+    top: 150px;
+    margin-left: auto;
+margin-right:auto;
+color: rgb(143, 143, 143);
+margin-bottom: 0;
+
+
+}
+
+#myName{
+    border: 4px solid white;
+    ;
+    width: 500px;
+    position: relative;
+    top: 125px;
+margin-left: auto;
+margin-right:auto;
+}
+
+#name{
+    font-size: 110px;
+    color:rgb(255, 255, 255);
+
+}
+
+.landingLinks{
+    font-size: 25px;
+    /* position:relative; */
+    display:inline-block;
+    margin-right:40px;
+    margin-left: 40px;
+    font-size: 14px;
+    color:inherit;
+}
+
+#links{
+    /* margin-left: auto;
+    margin-right:auto; */
+    top: 155px;
+    position:relative;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(143, 143, 143);
+
+
+
+}

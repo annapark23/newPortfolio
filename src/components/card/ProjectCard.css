@@ -1,0 +1,19 @@
+.card-img-top{
+    height:130px;
+}
+
+.col-sm-3{
+    padding: 15px;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.card-body{
+    background-color: #DBEBFF;
+}
+
+#lastRow{
+    margin-bottom: 75px;
+}
